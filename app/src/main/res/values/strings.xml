@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Schoolapp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_agenda">Agenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_email">email</string>
+    <string name="action_notitie">notitie</string>
+    <string name="action_thema">thema</string>
+    <string name="action_contactenlijst">contactenlijst</string>
+</resources>
